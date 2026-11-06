@@ -1,7 +1,15 @@
 # Gestor de calificaciones
 
+Repositorio: <https://github.com/Anthony-Balbuena/gestor-de-calificaciones>
+
 Aplicación de consola en C# (.NET 10) para registrar estudiantes, cargarles
 calificaciones y consultar el promedio y el estado de cada uno.
+
+Clonar el proyecto:
+
+```bash
+git clone https://github.com/Anthony-Balbuena/gestor-de-calificaciones.git
+```
 
 ## Requisitos
 
